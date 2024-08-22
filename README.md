@@ -1,6 +1,6 @@
 # golib
 
-Centralized MasjidPay Golang libraries. If you have function that considered common, please move it here.
+Centralized TernakYok Golang libraries. If you have function that considered common, please move it here.
 
 How to contribute on golib:
 
@@ -11,7 +11,7 @@ How to contribute on golib:
 ## Installation
 
 ```bash
-$ go get github.com/masjidpay/golib
+$ go get github.com/ternakyok/golib
 ```
 
 ## How To Use

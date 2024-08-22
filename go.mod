@@ -1,4 +1,4 @@
-module github.com/masjidpay/golib
+module github.com/ternakyok/golib
 
 go 1.16
 
